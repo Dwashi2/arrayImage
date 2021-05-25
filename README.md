@@ -43,7 +43,7 @@ It's a simple app, only to study image array
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file imageArray1.xcodeproj 
+Open the file inputArrayImage.xcodeproj 
 
 ### Prerequisites
 
