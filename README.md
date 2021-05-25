@@ -37,7 +37,10 @@
  
 
 
-It's a simple app, only to study image array
+It's a simple app, only to study image array, and images, 
+the names that have to find:
+
+Broly, Goku, Vegeta, Bulma, Garlic Jr, Cell, Babidi , Frieza , Dabura
 
 
 <!-- GETTING STARTED -->
